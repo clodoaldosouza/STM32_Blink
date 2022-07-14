@@ -1,2 +1,4 @@
 # STM32_Blink
-STM32_Blink
+
+Blink on GP11 using STM32F030C6T 
+KEIL 5 + STM32CubeMX 
